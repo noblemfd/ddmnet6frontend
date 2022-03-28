@@ -1,0 +1,2 @@
+export interface ProfileDetail {
+}
